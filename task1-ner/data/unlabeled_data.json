@@ -1,0 +1,426 @@
+[
+    {
+        "text": "Mount Rainier dominates the skyline of western Washington state.",
+        "mountains": [
+            "Mount Rainier"
+        ]
+    },
+    {
+        "text": "Climbers spent three weeks attempting to summit K2 during the winter season.",
+        "mountains": [
+            "K2"
+        ]
+    },
+    {
+        "text": "The sharp pyramid peak of the Matterhorn attracts thousands of alpine tourists each year.",
+        "mountains": [
+            "Matterhorn"
+        ]
+    },
+    {
+        "text": "Mont Blanc is recognized as the highest mountain in Western Europe.",
+        "mountains": [
+            "Mont Blanc"
+        ]
+    },
+    {
+        "text": "Hikers on Mount Kilimanjaro traverse five distinct climate zones.",
+        "mountains": [
+            "Mount Kilimanjaro"
+        ]
+    },
+    {
+        "text": "Denali towers over the Alaskan wilderness at over twenty thousand feet.",
+        "mountains": [
+            "Denali"
+        ]
+    },
+    {
+        "text": "Mount Fuji is an active stratovolcano located on the island of Honshu.",
+        "mountains": [
+            "Mount Fuji"
+        ]
+    },
+    {
+        "text": "Sir Edmund Hillary and Tenzing Norgay first reached the peak of Mount Everest in 1953.",
+        "mountains": [
+            "Mount Everest"
+        ]
+    },
+    {
+        "text": "Extreme weather conditions make Mount Washington renowned for fierce winds.",
+        "mountains": [
+            "Mount Washington"
+        ]
+    },
+    {
+        "text": "Mount Whitney serves as the southern terminus of the John Muir Trail.",
+        "mountains": [
+            "Mount Whitney"
+        ]
+    },
+    {
+        "text": "Annapurna remains one of the most perilous mountains in the Himalayas.",
+        "mountains": [
+            "Annapurna"
+        ]
+    },
+    {
+        "text": "Mount Elbrus is located in the Caucasus mountain range in Russia.",
+        "mountains": [
+            "Mount Elbrus"
+        ]
+    },
+    {
+        "text": "Mount Logan is the highest point in Canada and features immense ice fields.",
+        "mountains": [
+            "Mount Logan"
+        ]
+    },
+    {
+        "text": "Mount Mitchell stands as the tallest peak in the Appalachian Range.",
+        "mountains": [
+            "Mount Mitchell"
+        ]
+    },
+    {
+        "text": "The explosive eruption of Mount St. Helens occurred in May 1980.",
+        "mountains": [
+            "Mount St . Helens"
+        ]
+    },
+    {
+        "text": "Mount Vesuvius destroyed the ancient Roman city of Pompeii in AD 79.",
+        "mountains": [
+            "Mount Vesuvius"
+        ]
+    },
+    {
+        "text": "According to Greek mythology, Mount Olympus was the home of the gods.",
+        "mountains": [
+            "Mount Olympus"
+        ]
+    },
+    {
+        "text": "Ben Nevis is the highest mountain in the British Isles.",
+        "mountains": [
+            "Ben Nevis"
+        ]
+    },
+    {
+        "text": "Mount Cook is located in the Southern Alps of New Zealand.",
+        "mountains": [
+            "Mount Cook"
+        ]
+    },
+    {
+        "text": "Table Mountain overlooks the coastal city of Cape Town.",
+        "mountains": [
+            "Table Mountain"
+        ]
+    },
+    {
+        "text": "Mount Hood is a prominent volcanic peak in the state of Oregon.",
+        "mountains": [
+            "Mount Hood"
+        ]
+    },
+    {
+        "text": "Mount Shasta in northern California is considered sacred by local tribes.",
+        "mountains": [
+            "Mount Shasta"
+        ]
+    },
+    {
+        "text": "Historical accounts trace ancient pilgrimage routes near Mount Sinai.",
+        "mountains": [
+            "Mount Sinai"
+        ]
+    },
+    {
+        "text": "Mount Kosciuszko is the tallest peak on the Australian mainland.",
+        "mountains": [
+            "Mount Kosciuszko"
+        ]
+    },
+    {
+        "text": "Mount Baker receives massive amounts of snowfall each winter.",
+        "mountains": [
+            "Mount Baker"
+        ]
+    },
+    {
+        "text": "Mount Adams offers scenic backcountry hiking routes across Washington.",
+        "mountains": [
+            "Mount Adams"
+        ]
+    },
+    {
+        "text": "Mount Jefferson is the second highest peak in Oregon.",
+        "mountains": [
+            "Mount Jefferson"
+        ]
+    },
+    {
+        "text": "Kangchenjunga is the third highest mountain in the world.",
+        "mountains": [
+            "Kangchenjunga"
+        ]
+    },
+    {
+        "text": "Lhotse is connected directly to Mount Everest via the South Col.",
+        "mountains": [
+            "Lhotse",
+            "Mount Everest"
+        ]
+    },
+    {
+        "text": "Makalu is known for its distinct four-sided pyramid structure.",
+        "mountains": [
+            "Makalu"
+        ]
+    },
+    {
+        "text": "Cho Oyu lies on the border between Nepal and Tibet.",
+        "mountains": [
+            "Cho Oyu"
+        ]
+    },
+    {
+        "text": "Dhaulagiri was long considered the highest peak before detailed surveys.",
+        "mountains": [
+            "Dhaulagiri"
+        ]
+    },
+    {
+        "text": "Manaslu is located in the west-central part of Nepal.",
+        "mountains": [
+            "Manaslu"
+        ]
+    },
+    {
+        "text": "Nanga Parbat features the massive Rupal Face, rising dramatically above the valley.",
+        "mountains": [
+            "Nanga Parbat"
+        ]
+    },
+    {
+        "text": "Gasherbrum I is situated in the Karakoram region along the border.",
+        "mountains": [
+            "Gasherbrum I"
+        ]
+    },
+    {
+        "text": "Broad Peak is located near the mighty Godwin-Austen Glacier.",
+        "mountains": [
+            "Broad Peak"
+        ]
+    },
+    {
+        "text": "The north face of the Eiger presents a formidable challenge for mountaineers.",
+        "mountains": [
+            "Eiger"
+        ]
+    },
+    {
+        "text": "Visitors take a cogwheel train to the saddle near Jungfrau.",
+        "mountains": [
+            "Jungfrau"
+        ]
+    },
+    {
+        "text": "Mönch stands alongside the Eiger and Jungfrau in the Bernese Alps.",
+        "mountains": [
+            "Mönch",
+            "Eiger",
+            "Jungfrau"
+        ]
+    },
+    {
+        "text": "Piz Bernina is the highest summit in the Eastern Alps.",
+        "mountains": [
+            "Piz Bernina"
+        ]
+    },
+    {
+        "text": "Grossglockner is the highest mountain in Austria.",
+        "mountains": [
+            "Grossglockner"
+        ]
+    },
+    {
+        "text": "Zugspitze marks the highest elevation in Germany.",
+        "mountains": [
+            "Zugspitze"
+        ]
+    },
+    {
+        "text": "Mount Apo is the highest mountain in the Philippines.",
+        "mountains": [
+            "Mount Apo"
+        ]
+    },
+    {
+        "text": "Mount Kinabalu rises above the tropical rainforests of Borneo.",
+        "mountains": [
+            "Mount Kinabalu"
+        ]
+    },
+    {
+        "text": "Mount Merapi is one of Indonesia's most active volcanoes.",
+        "mountains": [
+            "Mount Merapi"
+        ]
+    },
+    {
+        "text": "Mount Bromo sits within a vast caldera on Java.",
+        "mountains": [
+            "Mount Bromo"
+        ]
+    },
+    {
+        "text": "Mount Pinatubo produced a massive eruption that affected global temperatures in 1991.",
+        "mountains": [
+            "Mount Pinatubo"
+        ]
+    },
+    {
+        "text": "Mount Kazbek is a dormant stratovolcano in the Caucasus Mountains.",
+        "mountains": [
+            "Mount Kazbek"
+        ]
+    },
+    {
+        "text": "Mount Ararat is traditionally associated with the resting place of Noah's Ark.",
+        "mountains": [
+            "Mount Ararat"
+        ]
+    },
+    {
+        "text": "Mount Damavand is a potentially active volcano and the highest peak in Iran.",
+        "mountains": [
+            "Mount Damavand"
+        ]
+    },
+    {
+        "text": "Mount Kenya features several glaciers near its central peaks.",
+        "mountains": [
+            "Mount Kenya"
+        ]
+    },
+    {
+        "text": "Mount Stanley lies in the Rwenzori range between Uganda and the DR Congo.",
+        "mountains": [
+            "Mount Stanley"
+        ]
+    },
+    {
+        "text": "Mount Toubkal is the highest peak in the Atlas Mountains of Morocco.",
+        "mountains": [
+            "Mount Toubkal"
+        ]
+    },
+    {
+        "text": "Mount Wilhelm is the highest mountain peak in Papua New Guinea.",
+        "mountains": [
+            "Mount Wilhelm"
+        ]
+    },
+    {
+        "text": "Mount Taranaki is an isolated active stratovolcano in New Zealand.",
+        "mountains": [
+            "Mount Taranaki"
+        ]
+    },
+    {
+        "text": "Mount Ruapehu is the largest active volcano in New Zealand.",
+        "mountains": [
+            "Mount Ruapehu"
+        ]
+    },
+    {
+        "text": "Mount Blackburn is the second highest peak in the Wrangell Mountains.",
+        "mountains": [
+            "Mount Blackburn"
+        ]
+    },
+    {
+        "text": "Mount Fairweather marks a prominent coastal point along the Alaska border.",
+        "mountains": [
+            "Mount Fairweather"
+        ]
+    },
+    {
+        "text": "Mount Saint Elias is the second highest peak in both Canada and the US.",
+        "mountains": [
+            "Mount Saint Elias"
+        ]
+    },
+    {
+        "text": "Mount Foraker stands near Denali in Alaska Range National Park.",
+        "mountains": [
+            "Mount Foraker",
+            "Denali"
+        ]
+    },
+    {
+        "text": "Mount Hunter is known for its steep and technical climbing routes.",
+        "mountains": [
+            "Mount Hunter"
+        ]
+    },
+    {
+        "text": "Mount Robson is the highest point in the Canadian Rockies.",
+        "mountains": [
+            "Mount Robson"
+        ]
+    },
+    {
+        "text": "Mount Edith Cavell was named after a heroic British nurse from World War I.",
+        "mountains": [
+            "Mount Edith Cavell"
+        ]
+    },
+    {
+        "text": "Cerro Torre is famous for its steep granite walls and ice mushroom formations.",
+        "mountains": [
+            "Cerro Torre"
+        ]
+    },
+    {
+        "text": "Fitz Roy attracts elite rock climbers from across the globe.",
+        "mountains": [
+            "Fitz Roy"
+        ]
+    },
+    {
+        "text": "Mount Aconcagua is the highest mountain outside of Asia.",
+        "mountains": [
+            "Mount Aconcagua"
+        ]
+    },
+    {
+        "text": "Ojos del Salado is the highest active volcano on Earth.",
+        "mountains": [
+            "Ojos del Salado"
+        ]
+    },
+    {
+        "text": "Chimborazo's peak is the furthest point on Earth from the planet's center.",
+        "mountains": [
+            "Chimborazo"
+        ]
+    },
+    {
+        "text": "Cotopaxi is a famous symmetrical volcano in Ecuador.",
+        "mountains": [
+            "Cotopaxi"
+        ]
+    },
+    {
+        "text": "Mount Katmai collapsed during a major volcanic eruption in 1912.",
+        "mountains": [
+            "Mount Katmai"
+        ]
+    }
+]

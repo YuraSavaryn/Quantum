@@ -1,0 +1,10 @@
+opencv-python>=4.8
+kornia==0.6.4
+geopandas
+numpy
+rasterio
+shapely
+torch
+einops
+yacs
+loguru

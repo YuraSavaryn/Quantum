@@ -52,12 +52,12 @@ pip install -r requirements.txt
 
 ## Usage guide
 
-### 1. Dataset Creation (Optional)
+### 1. Dataset creation
 If you wish to recreate or extend the dataset, run all cells in `dataset.ipynb`. 
 The script will use generated raw texts, annotate them, and save the output to `data/ner_mountain_dataset.json`. 
 The pre-built dataset is already included in the repository.
 
-### 2. Training the Model
+### 2. Training the model
 To train the model, run the `train.py` script. You can pass optional arguments to configure the training process.
 
 ```bash
@@ -65,19 +65,19 @@ python train.py --epochs 6 --batch_size 16 --output_dir ./model
 ```
 Once training is complete, the best model weights, tokenizer, and configuration files will be saved in the `./model/` directory.
 
-### 3. Running Inference
+### 3. Running inference
 You can test the trained model using `inference.py` by passing a custom text string:
 
 ```bash
 python inference.py --text "Next year we hope to tackle K2 or Mount Kilimanjaro."
 ```
-**Output Example:**
+**Output example:**
 ```text
-Mountain Entities Found:
+Mountain entities found:
 ----------------------------------------
  * K2 (Confidence: 92.9%)
  * Mount Kilimanjaro (Confidence: 79.5%)
 ```
 
-### 4. Interactive Demo
+### 4. Interactive demo
 For a more interactive experience and to view edge-case testing, open `demo.ipynb` and run the inference cells provided.
